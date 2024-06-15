@@ -1,0 +1,362 @@
+body {
+    background-color: #edf2c5;
+}
+
+
+#veg {
+    position: absolute;
+    font-size: 44px;
+    line-height: 59.93px;
+    font-family: Noto Sans KR;
+    font-weight: 900;
+    color: #778A50;
+    height: 60px;
+    width: 253px;
+    margin: 0 0 0 0;
+
+}
+
+.icon {
+    position: absolute;
+    width: 208px;
+    height: 24px;
+    top: 19px;
+    left: 900px;
+
+}
+
+header {
+    position: absolute;
+    width: 1122px;
+    height: 62px;
+    top: 36px;
+    left: 160px;
+}
+
+
+
+
+
+nav {
+    position: absolute;
+    background-color: #778A50;
+    height: 44px;
+    width: 1120px;
+    top: 106px;
+    border-radius: 3px;
+    left: 160px;
+
+}
+
+#home {
+    position: relative;
+    font-family: 'Noto Sans';
+    font-weight: 900;
+    size: 16px;
+    color: #EDF2C5;
+    height: 24px;
+    width: 75px;
+    margin: 0 50px 0 0;
+    line-height: 24px;
+    top: 10px;
+    left: 30px;
+
+}
+
+#about {
+    position: relative;
+    font-family: 'Noto Sans';
+    font-weight: 900;
+    size: 16px;
+    color: #EDF2C5;
+    height: 24px;
+    width: 49px;
+    margin: 0 50px 0 0;
+    line-height: 24px;
+    top: 10px;
+    left: 30px;
+
+}
+
+#vegetables {
+    position: relative;
+    font-family: 'Noto Sans';
+    font-weight: 900;
+    size: 16px;
+    color: #EDF2C5;
+    height: 24px;
+    width: 92px;
+    margin: 0 50px 0 0;
+    line-height: 24px;
+    top: 10px;
+    left: 30px;
+
+}
+
+#online {
+    position: relative;
+    font-family: 'Noto Sans';
+    font-weight: 900;
+    size: 16px;
+    color: #EDF2C5;
+    height: 24px;
+    width: 55px;
+    margin: 0 50px 0 0;
+    line-height: 24px;
+    top: 10px;
+    left: 30px;
+
+}
+
+#contact {
+    position: relative;
+    font-family: 'Noto Sans';
+    font-weight: 900;
+    size: 16px;
+    color: #EDF2C5;
+    height: 24px;
+    width: 65px;
+    margin: 0 50px 0 0;
+    line-height: 24px;
+    top: 10px;
+    left: 30px;
+
+}
+
+#ig {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    right: 148px;
+    background: url(../img/btn_instagram.png);
+    border: none;
+    left: 36px;
+
+}
+
+#fb {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    background: url(../img/btn_facebook.png);
+    border: none;
+}
+
+#line {
+    position: absolute;
+    left: 60px;
+    width: 24px;
+    top: -40px;
+    transform: rotate(90deg);
+    color: #778A50;
+    font-size: 30px;
+
+
+
+}
+
+#Login {
+    position: absolute;
+    padding: 4px 8px;
+    width: 62px;
+    height: 27px;
+    left: 83px;
+    top: 0px;
+    border: 1px solid #778A50;
+    border-radius: 3px;
+    font-family: 'Noto Sans';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19.07px;
+    color: #778A50;
+    background-color: #edf2c5;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+#Join {
+    position: absolute;
+    padding: 4px 8px;
+    width: 62px;
+    height: 27px;
+    left: 159px;
+    top: 0px;
+    border: 1px solid #778A50;
+    border-radius: 3px;
+    font-family: 'Noto Sans';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19.07px;
+    color: #778A50;
+    background-color: #edf2c5;
+}
+
+
+.pumpkin {
+    position: absolute;
+    top: 166px;
+    left: 160px;
+    width: 1120px;
+    height: 448px;
+
+}
+
+.photoall {
+    width: 528px;
+    height: 201px;
+    top: 480px;
+    margin-right: 32px;
+}
+
+.photoback p {
+    position: absolute;
+    color: #edf2c5;
+    width: 92px;
+    height: 24px;
+    top: 10px;
+    left: 30px;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+}
+
+.photo {
+    position: relative;
+    background-color: #778A50;
+    width: 528px;
+    height: 45px;
+    padding: 10px, 406px, 11px, 30px;
+    border-radius: 3px;
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    top: 36px;
+
+}
+
+.photo2 img {
+    position: relative;
+    top: 57px;
+    width: 168px;
+    height: 140px;
+    left: 0;
+    font-family: 'Noto Sans';
+}
+
+#img1 {
+    margin-right: 8px;
+}
+
+#img2 {
+    margin-right: 8px;
+}
+
+#contact2 {
+    position: absolute;
+    width: 92px;
+    height: 24px;
+    top: 10px;
+    left: 30px;
+    top: 10px;
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+}
+
+#pad {
+    position: absolute;
+    background-color: #778A50;
+    color: #edf2c5;
+    width: 528px;
+    height: 45px;
+    padding: 10px, 406px, 11px, 30px;
+    border-radius: 3px;
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 24px;
+    letter-spacing: 0em;
+    left: 592px;
+    top: 489px;
+
+}
+
+.text {
+    position: absolute;
+    top: 61px;
+    width: 528px;
+    height: 140px;
+    background-color: #F7FBDA;
+
+}
+
+#text1 {
+    position: relative;
+    color: #7D7D7D;
+    padding: 16px 14px 0px 16px;
+    font-size: 12px;
+    font-family: Arial;
+    font-weight: 400;
+    line-height: 18px;
+    width: 496px;
+    height: 54px;
+    top: 0;
+    margin: 0;
+
+
+}
+
+#line2 {
+    position: relative;
+    width: 496px;
+    left: 16px;
+    border: 0.5px solid #7D7D7D;
+    top: 9px;
+}
+
+#text2 {
+    position: relative;
+    color: #7D7D7D;
+    padding: 16px;
+    font-size: 12px;
+    font-family: Arial;
+    font-weight: 400;
+    line-height: 18px;
+    width: 496px;
+    height: 36px;
+    top: 0px;
+    margin: 18px 14px 16px 16px;
+    padding: 0px;
+
+
+}
+
+footer {
+    position: relative;
+    background-color: #778A50;
+    height: 60px;
+    width: 1440px;
+    border-radius: 3px;
+    top: 964px;
+}
+
+
+footer p {
+    position:absolute;
+    color: #EDF2C5;
+    width: 302px;
+    height: 18px;
+    bottom: 21px;
+    left: 569px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 0px;
+}
